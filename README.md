@@ -11,4 +11,4 @@ Project 2 - Adversarial Search and Games
             *2048 Game
             *Minmax strategy
             *Alpha and beta pruning
-            *Heuristic evluation function
+            *Heuristic evaluation function
