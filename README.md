@@ -12,3 +12,8 @@ Project 2 - Adversarial Search and Games
             *Minmax strategy
             *Alpha and beta pruning
             *Heuristic evaluation function
+            
+Project 4 - Constraint Satisfaction Problems
+            *Sudokus
+            *AC3 consistency
+            *Backtrack search and forward checking
